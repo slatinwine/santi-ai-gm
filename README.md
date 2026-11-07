@@ -19,3 +19,7 @@
 
 - HTML / CSS / 原生 JavaScript（单文件，无依赖）
 - 部署方式：任意静态托管（如 GitHub Pages）
+
+## 关注公众号
+
+![公众号二维码](qrcode.jpg)
